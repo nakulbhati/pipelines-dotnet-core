@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/Bhatinakul/(.net%20app%20deployment)/_apis/build/status/nakulbhati.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/Bhatinakul/(.net%20app%20deployment)/_build/latest?definitionId=4&branchName=master)
 # Sample ASP.NET Core application for Azure Pipelines docs
 
 For information on how to set up a pipeline for this repository, see [Create your first pipeline](https://docs.microsoft.com/azure/devops/pipelines/get-started-yaml?view=azure-devops).
